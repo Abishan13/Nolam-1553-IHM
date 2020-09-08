@@ -9,10 +9,10 @@ The card is functional only if the computer is connected to a 1553 HMI card.
 
 ### Screenshot
 
-###Client
+### Client
 
 ![](screenshot/client.png)
 
-###Server
+### Server
 
 ![](screenshot/server.png)
